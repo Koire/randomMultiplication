@@ -1,0 +1,22 @@
+{
+  "name": "randommultiplication",
+  "version": "1.0.0",
+  "description": "A simple app for practicing random multiplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koire/randomMultiplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koire/randomMultiplication/issues"
+  },
+  "homepage": "https://github.com/Koire/randomMultiplication#readme",
+  "dependencies": {
+    "hyperapp": "^2.0.12"
+  }
+}
